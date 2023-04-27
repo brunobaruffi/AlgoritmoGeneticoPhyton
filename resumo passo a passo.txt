@@ -1,0 +1,17 @@
+Passo a Passo AG.
+
+Definição do cromossomo.
+Definição do estado perfeito.
+
+Criação dos primeiros individuos.
+Ordena os individuos do melhor para o pior.
+Armazena o melhor resultado
+Repete as gerações:
+	Soma o resultado geral da população
+	Seleção do melhores pais com a roleta viciada
+	Aplicação do crossover.
+	Aplicação do mutação.
+	Substitui a população anterior pela nova.
+	Verifica e ordena a populaçao do melhor para o pior.
+	Pega o melhor desta geração e compara com o melhor 		armazenado. Caso seja superior ao armazenado 		substitui
+Fim da repetição.
